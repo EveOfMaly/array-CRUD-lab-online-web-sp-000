@@ -34,3 +34,8 @@ end
 def retrieve_last_element_from_array(array)
   array[-1]
 end
+
+array = 
+create_an_empty_array
+create_an_array
+add_element_to_end_of_array(array, element)
