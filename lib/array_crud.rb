@@ -38,8 +38,10 @@ end
    array = ["wow", "I", "am", "really", "learning"]
     element = "arrays!"
     index_number = 1
-puts "create_an_empty_arrputs create_an_empty_array"
-puts create an arrputs create_an_array
+puts "create_an_empty_array"
+puts create_an_empty_array
+puts "create_an_array"
+puts create_an_array
 puts "add element to end of the array"
 puts add_element_to_end_of_array(array, element)
 puts "add element to the start of the array"
