@@ -37,6 +37,7 @@ end
 
    array = ["wow", "I", "am", "really", "learning"]
     element = "arrays!"
+    index_number = 1
 print create_an_empty_array
 print create_an_array
 print add_element_to_end_of_array(array, element)
