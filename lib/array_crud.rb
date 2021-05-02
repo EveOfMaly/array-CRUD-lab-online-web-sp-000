@@ -37,7 +37,7 @@ end
 
    array = ["wow", "I", "am", "really", "learning"]
     element = "arrays!"
-puts reate_an_empty_array
+puts create_an_empty_array
 puts create_an_array
 puts add_element_to_end_of_array(array, element)
 puts add_element_to_start_of_array(array, element)
