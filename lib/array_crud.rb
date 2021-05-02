@@ -55,7 +55,7 @@ puts remove_element_from_start_of_array(array)
 puts "retrieve element from index 1"
 puts retrieve_element_from_index(array, index_number)
 puts "retrieve first element"
-putt retrieve_first_element_from_array(array)
+puts retrieve_first_element_from_array(array)
 puts "retrieve last element"
 puts retrieve_last_element_from_array(array)
 
