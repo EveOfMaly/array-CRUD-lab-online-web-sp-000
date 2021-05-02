@@ -37,6 +37,21 @@ end
 
    array = ["wow", "I", "am", "really", "learning"]
     element = "arrays!"
-create_an_empty_array
-create_an_array
-add_element_to_end_of_array(array, element)
+puts reate_an_empty_array
+puts create_an_array
+puts add_element_to_end_of_array(array, element)
+puts add_element_to_start_of_array(array, element)
+
+puts remove_element_from_end_of_array(array)
+ 
+
+puts remove_element_from_start_of_array(array)
+ 
+
+puts retrieve_element_from_index(array, index_number)
+
+
+puts retrieve_first_element_from_array(array)
+
+puts retrieve_last_element_from_array(array)
+
