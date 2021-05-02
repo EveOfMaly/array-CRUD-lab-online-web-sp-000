@@ -57,6 +57,6 @@ puts "retrieve element from index 1"
 print retrieve_element_from_index(array, index_number)
 puts "retrieve first element"
 print retrieve_first_element_from_array(array)
-
+puts "retrieve last element"
 print retrieve_last_element_from_array(array)
 
