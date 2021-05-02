@@ -37,21 +37,19 @@ end
 
    array = ["wow", "I", "am", "really", "learning"]
     element = "arrays!"
-puts create_an_empty_array
-puts create_an_array
-puts add_element_to_end_of_array(array, element)
-puts add_element_to_start_of_array(array, element)
+print create_an_empty_array
+print create_an_array
+print add_element_to_end_of_array(array, element)
+print add_element_to_start_of_array(array, element)
 
-puts remove_element_from_end_of_array(array)
+print remove_element_from_end_of_array(array)
  
 
-puts remove_element_from_start_of_array(array)
+print remove_element_from_start_of_array(array)
  
 
-puts retrieve_element_from_index(array, index_number)
+print retrieve_element_from_index(array, index_number)
+print retrieve_first_element_from_array(array)
 
-
-puts retrieve_first_element_from_array(array)
-
-puts retrieve_last_element_from_array(array)
+print retrieve_last_element_from_array(array)
 
